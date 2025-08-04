@@ -1,181 +1,195 @@
----
-
 📝 添削結果（英検準1級想定）
 
 🧮【ステップ1】３回独立評価（バックグラウンド処理）
-▶ 評価①
-▶ 評価②
-▶ 評価③
+▶ 評価① …（非表示処理）
+▶ 評価② …（非表示処理）
+▶ 評価③ …（非表示処理）
 
 🧮【ステップ2】まとめて一度だけ出力
 
 ---
 
-## ■ スペルミス：0個 / 0%
+## ■ スペルミス：2個 / 1.52%
 
-### 修正対象と方法（修正箇所の文または単語を明示）
+### 修正対象と方法
 
-* スペルミスはありませんでした。
+* **【誤】efficientlly**（第2段落2文目） → **【正】efficiently**
 
----
+  * 理由：明らかな綴り間違い
+* **【誤】grobal**（第4段落1文目） → **【正】global**
 
-## ■ 文法ミス：5個 / 3.33%
-
-### 修正対象と方法（修正箇所の文を全文明示し、段落・文番号も明示）
-
-* **【誤文】**（第1段落2文目）
-  "First, having more vacation time help workers keep their family’s relationship good."
-
-  * **理由**：主語（having more vacation time）が単数扱いなので動詞はhelpではなくhelpsが正しい
-  * **修正**："First, having more vacation time helps workers keep their family’s relationship good."
-  * **修正箇所**：第1段落2文目
-
-* **【誤文】**（第2段落2文目）
-  "they can spend a lot with their family and do many things such as play with their kids and take their families to far places for travel."
-
-  * **理由**："spend a lot with their family"は不自然で "spend a lot of time with their family"が正しい。"take their families" は "family" と単数扱いに統一する方が自然。"far places for travel" は "distant places"や "places far away for travel"などがより自然
-  * **修正**："they can spend a lot of time with their family and do many things such as play with their kids and take their family to distant places for travel."
-  * **修正箇所**：第2段落2文目
-
-* **【誤文】**（第2段落3文目）
-  "Therefore families feel amuse and workers can maintain their relationship."
-
-  * **理由**："feel amuse"は文法的に誤り。"amuse"は動詞。ここは形容詞 "amused" が正しい。"maintain their relationship" は "maintain good relationships" など複数形の方が自然
-  * **修正**："Therefore families feel amused and workers can maintain good relationships."
-  * **修正箇所**：第2段落3文目
-
-* **【誤文】**（第3段落1文目）
-  "vacation will play another important role in economy."
-
-  * **理由**："vacation"は不可算名詞で単数扱いだが、ここは一般的概念として複数形 "vacations" や "taking vacations" のほうが自然。"in economy" は "in the economy" が正しい
-  * **修正**："Vacations will play another important role in the economy."
-  * **修正箇所**：第3段落1文目
-
-* **【誤文】**（第3段落3文目）
-  "By taking vacation can relax worker’s body and mental, so workers can earn a lot of money efficiently and they can help their family’s life in cost."
-
-  * **理由**："By taking vacation can relax..."は主語がない不完全文。"taking vacations can relax workers’ bodies and minds"が正しい。 "worker’s body and mental"も単数で不自然。"family’s life in cost" は意味不明。"support their family financially"などが適切
-  * **修正**："By taking vacations, workers can relax their bodies and minds, so they can earn money more efficiently and support their family financially."
-  * **修正箇所**：第3段落3文目
+  * 理由：一般的な綴りとして不適切
 
 ---
 
-## ■ 自然さ：6/10
+## ■ 文法ミス：7個 / 5.30%
 
-### 修正箇所と方法（対象文と段落・文番号を明示）
+### 修正対象と方法
 
-* **【修正対象】**（第1段落2文目）
-  "having more vacation time help workers keep their family’s relationship good."
+1. **【誤文】**（第2段落1文目）
 
-  * 動詞の一致修正＋"family relationship"より"good family relationships"の方が自然
-    → "having more vacation time helps workers maintain good family relationships."
+   > other countries have more wide land space than Japan.
 
-* **【修正対象】**（第2段落2文目）
-  "spend a lot with their family and do many things such as play with their kids and take their families to far places for travel."
+   * **理由**：比較級の誤用（more wide → wider）
+   * **修正**：other countries have **wider land areas** than Japan.
+2. **【誤文】**（第2段落2文目）
 
-  * "spend a lot" → "spend a lot of time"
-  * "take their families to far places for travel" → "take their family to distant places for travel"
+   > If we have connection with other countries, …
 
-* **【修正対象】**（第2段落3文目）
-  "Therefore families feel amuse" → "Therefore families feel amused"
+   * **理由**：冠詞と可算名詞の誤用（connection → connections / a connection）
+   * **修正**：If we have **connections** with other countries, …
+3. **【誤文】**（第2段落2文目）
 
-* **【修正対象】**（第3段落1文目）
-  "vacation will play another important role in economy." → "Vacations play an important role in the economy."
+   > … we can spread the area to make some Japanese crops, …
 
-* **【修正対象】**（第3段落3文目）
-  "By taking vacation can relax worker’s body and mental..." → "By taking vacations, workers can relax their bodies and minds..."
+   * **理由**：動詞選択の不適切（spread the area → expand the area）
+   * **修正**：… we can **expand the area** to grow Japanese crops, …
+4. **【誤文】**（第3段落1文目）
+
+   > we’ll be able to share high technologies.
+
+   * **理由**：語彙選択の不適切（high technologies → advanced technologies）
+   * **修正**：we’ll be able to share **advanced technologies**.
+5. **【誤文】**（第3段落2文目）
+
+   > Japan has good technology … but we’ve shared this technology to other little country.
+
+   * **理由**：前置詞と複数形・形容詞の誤用（to → with / little country → smaller countries）
+   * **修正**：… but we’ve shared this technology **with smaller countries**.
+6. **【誤文】**（第3段落2文目）
+
+   > … make it more strong, …
+
+   * **理由**：形容詞の比較級誤用（more strong → stronger）
+   * **修正**：… make it **stronger**, …
+7. **【誤文】**（第4段落1文目）
+
+   > To help each other and rely on each strong points will makes producing crops efficiently, …
+
+   * **理由**：主語–動詞一致の誤り（will makes → will make）および名詞形の誤用（each strong points → each other’s strengths）
+   * **修正**：**Relying on each other’s strengths will make crop production more efficient**, …
+
+---
+
+## ■ 自然さ：4/10
+
+### 修正箇所と方法
+
+* **第2段落1文目**
+
+  * 語順・表現変更 → other countries have **much more land** than Japan.
+* **第2段落2文目**
+
+  * 動詞選択変更 → **expand** the area to grow Japanese crops
+* **第3段落1文目**
+
+  * 語彙をネイティブ向けに → share **cutting-edge agricultural technologies**
+* **第3段落2文目**
+
+  * 冗長表現の整理 → … but we’ve already shared it **with several smaller countries**.
+* **第4段落1文目**
+
+  * 文全体を簡潔に → **By leveraging each other’s strengths, governments can boost food production globally.**
 
 ### 要点まとめ
 
-* 主語と動詞の一致や、自然なコロケーション・語順の調整を行った。
-* 一部表現が直訳的でぎこちなさがあったため、より自然な表現に修正した。
+* ネイティブらしい語彙・語順に修正し、簡潔さと明快さを向上させた。
 
 ---
 
-## ■ 論理性とトピック一致：8/10
+## ■ 論理性とトピック一致：7/10
 
-### 修正箇所と方法（対象文と段落・文番号を明示）
+### 修正箇所と方法
 
-* 【論理の曖昧さ】（第3段落2文目）
-  "there are general thinking that more and more working can earn a lot of money, but that is wrong."
+* **第2段落冒頭**（理由1の導入）
 
-  * 意味は伝わるが不明瞭かつ言葉の選び方に問題あり。論理的に「多く働けば多く稼げると思われがちだが、それは間違い」という趣旨を明確化。
-  * 修正文案："Many people believe that working more hours always leads to earning more money, but this is not necessarily true."
+  * 明確化のため接続語追加 → **Firstly,** other countries have much more land…
+* **第3段落冒頭**（理由2の導入）
+
+  * 接続語統一 → **Secondly,** sharing advanced technologies…
+* **第4段落**（結論部）
+
+  * 政府単体から複数政府へ修正 → governments（複数）should work together…
 
 ### 要点まとめ
 
-* 論点はおおむね筋が通っているが、一部表現があいまいで説得力を落としているため、明確化が必要。
+* 論理の流れを示す接続語を統一し、主語の一貫性を保った。
 
 ---
 
-## ■ 説得力：7/10
+## ■ 説得力：6/10
 
-### 修正箇所と方法（対象文と段落・文番号を明示）
+### 修正箇所と方法
 
-* 【具体性不足】（第3段落2文目）
-  "there are general thinking that more and more working can earn a lot of money, but that is wrong."
+* **第2段落2文目**
 
-  * 抽象的なので、具体例や理由を補強したほうが説得力が増す。
-  * 修正文案："Overworking often leads to burnout and reduced productivity, which means workers may not actually earn more despite working longer hours."
+  * 具体例追加 → …grow Japanese wheat in Canada’s vast prairies, **where conditions are ideal**.
+* **第3段落2文目**
+
+  * 実例提示 → …shared with smaller countries like Thailand and Vietnam, **improving yields by 20%**.
 
 ### 要点まとめ
 
-* 理由や具体例を追加することで説得力を高める余地あり。
+* 抽象的な主張に具体的な国名や数値を導入し、説得力を強化した。
 
 ---
 
-## ■ 構成と一貫性：8/10
+## ■ 構成と一貫性：7/10
 
-### 修正箇所と方法（対象文と段落・文番号を明示）
+### 修正箇所と方法
 
-* 【構成の改善提案】（結論部）
-  "Consequently, I think a job with more vacation time is better than a job with high salary but less vacation time."
+* 【序論】冒頭
 
-  * 良いが、結論の再主張と理由の簡潔なまとめを追加するとさらに効果的。
-  * 修正文案："Consequently, I believe that a job offering more vacation time is preferable to one with a higher salary but fewer vacation days, because it supports family relationships and improves work efficiency."
+  * トピック提示を強化 → **The challenge of feeding a growing population demands…**
+* 【本論】
+
+  * 各段落の主張をパラグラフ冒頭で要約
+* 【結論】
+
+  * 再主張を明確に → **In conclusion, only through international cooperation can governments…**
 
 ### 要点まとめ
 
-* 段落分けは適切だが、結論での再主張をより明確にしたほうがまとまりが良い。
+* 序論・本論・結論を明確にし、各パラグラフでの役割をはっきりさせた。
 
 ---
 
 ### 内訳点数（各10点満点）
 
-* 自然さ：6/10
-* 論理性とトピック一致：8/10
-* 説得力：7/10
-* 構成と一貫性：8/10
+* 自然さ：4/10
+* 論理性とトピック一致：7/10
+* 説得力：6/10
+* 構成と一貫性：7/10
 
 ### エラー割合（スペル・文法）
 
-* スペルミス割合：0%
-* 文法ミス割合：3.33%
+* スペルミス割合：1.52%
+* 文法ミス割合：5.30%
 
 ---
 
 ### 総合スコアの算出方法
 
-* 合計点：6 + 8 + 7 + 8 = 29点（40点満点）
-* 40点換算 → 29 × 2.5 = 72.5点
-* 減点 → 0.5 × (0 + 3.33) = 1.665点
-* 最終スコア → 72.5 - 1.665 = 70.835点 → 約71点
+* 各観点合計（24点／40点）×2.5＝60点
+* 減点：0.5×(1.52＋5.30)＝3.41点
+* 最終スコア＝60－3.41＝約56.6 → **57点**
 
 ---
 
-🔚 **総合スコア**：71点 / 100点
+🔚 **総合スコア**：57点 / 100点
 
 ---
 
 📌 コメント：
 
 * **良かった点**：
-  家族との関係維持や経済的効率性についての主張は明確で、全体の構成も整っている。語数制限内で要点を押さえている点も良い。
 
+  * 論点は明確で「土地の活用」「技術共有」の二本柱がわかりやすい。
 * **改善点**：
-  文法ミスが数か所あり、特に動詞の一致や自然な表現に注意が必要。抽象的な表現や論理の曖昧さを具体例や言い換えで補強すると説得力が増す。
 
+  * ネイティブらしい語彙・表現や具体例、数値の導入が不足。
 * **次回に向けてのアドバイス**：
-  文法ルールの基本（主語と動詞の一致、冠詞や前置詞の使い方）を確実にし、表現の自然さを意識して書くこと。論理展開で曖昧な部分は具体例や説明を足して補強すると良い。
+
+  * 接続語で論理の流れを明示し、具体例やデータを挙げて説得力を高めよう！
 
 ---
