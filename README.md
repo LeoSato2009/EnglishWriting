@@ -44,7 +44,7 @@
 * **主要ファイル（リポジトリ内参照）**:
   * `prompt.txt`（AI評価用プロンプト） — [リンク](https://github.com/LeoSato2009/EnglishWriting/blob/main/prompt.txt)
   * `writing01/writing01.txt`（学習者初稿例） — [リンク](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing01/writing01.txt)
-  * `writing/writing01_correction.md`（AI/指導者による添削例） — [リンク](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing/writing01_correction.md)
+  * `writing/writing01_correction.md`（AI/指導者による添削例） — [リンク](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing01/writing01_correction.md)
 
 * **外部ファイル（ユーザ提供の短縮 URL）**:
   * ライティング原稿（Google Drive 共有）: [https://x.gd/l5keH](https://x.gd/l5keH)  

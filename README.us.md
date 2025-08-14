@@ -52,7 +52,7 @@ This project is an educational initiative aimed at gradually improving writing a
 
   * `prompt.txt` (AI evaluation prompt) — [link](https://github.com/LeoSato2009/EnglishWriting/blob/main/prompt.txt)
   * `writing01/writing01.txt` (example learner first draft) — [link](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing01/writing01.txt)
-  * `writing/writing01_correction.md` (example corrections by AI/instructor) — [link](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing/writing01_correction.md)
+  * `writing/writing01_correction.md` (example corrections by AI/instructor) — [link](https://github.com/LeoSato2009/EnglishWriting/blob/main/writing01/writing01_correction.md)
 
 * **External Files (user-provided shortened URLs)**:
 
